@@ -1,0 +1,22 @@
+[
+    {
+      "produto": "Herbicidas",
+      "price": 950.45
+    },
+    {
+      "produto": "Fungicidas",
+      "price": 1024.63
+    },
+    {
+      "produto": "Inseticidas",
+      "price": 645.89
+    },
+    {
+      "produto": "Fertilizantes",
+      "price": 986.79
+    },
+    {
+      "produto": "Outros",
+      "price": 320.77
+    }
+  ]

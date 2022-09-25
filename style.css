@@ -3,9 +3,14 @@
 }
 
 
+.grafico-tipos {
+    height: 500px;
+    width: 500px ;
+}
 
 @media only screen and (min-width: 600px) {
     body, header {
     width: 100% !important;
     }
   }
+
