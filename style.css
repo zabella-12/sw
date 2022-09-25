@@ -8,6 +8,11 @@
     width: 500px ;
 }
 
+.grafico-anual {
+    height: 600px;
+    width: 600px ;
+}
+
 @media only screen and (min-width: 600px) {
     body, header {
     width: 100% !important;

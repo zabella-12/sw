@@ -1,0 +1,51 @@
+[
+    {
+      "ano": "janeiro",
+      "qtd": 19
+    },
+    {
+      "ano": "fevereiro",
+      "qtd": 21
+    },
+    {
+      "ano": "março",
+      "qtd": 33
+    },
+    {
+      "ano": "abril",
+      "qtd": 34
+    },
+    {
+      "ano": "maio",
+      "qtd": 47
+    },
+    {
+      "ano": "junho",
+      "qtd": 55
+    },
+    {
+      "ano": "julho",
+      "qtd": 63
+    },
+    {
+      "ano": "agosto",
+      "qtd": 36
+    },
+    {
+      "ano": "setembro",
+      "qtd": 47
+    },
+    {
+      "ano": "outubro",
+      "qtd": 53
+    },
+    {
+      "ano": "novembro",
+      "qtd": 60
+    },
+    {
+      "ano": "dezembro",
+      "qtd": 47
+    }
+
+  ]
