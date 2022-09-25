@@ -19,3 +19,15 @@
     }
   }
 
+@media only screen and (max-width: 600px) {
+   .grafico-tipos {
+    display: flex;
+    flex-direction: column ;
+    width: 80% !important;
+    margin: 5% auto;
+   }
+   .grafico-anual {
+    width: 80% !important;
+    margin: 20% auto !important;
+   } 
+}
